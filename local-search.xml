@@ -4,6 +4,27 @@
   
   
   <entry>
+    <title>我的第一篇博客</title>
+    <link href="/2023/08/04/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <url>/2023/08/04/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
+    
+    <content type="html"><![CDATA[<h1 id="个人简介"><a href="#个人简介" class="headerlink" title="个人简介"></a>个人简介</h1><p>性别男，爱好女，男大，我是一个和你们一样热爱编程的程序猿，热爱生活，热爱学习。</p><h1 id="本博客目的"><a href="#本博客目的" class="headerlink" title="本博客目的"></a>本博客目的</h1><p>当然是记录个人学习，以及生活啦</p><h1 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h1><ul><li><p>照片</p><img src="/2023/08/04/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/Snipaste_2023-08-04_09-20-43.png" class="" title="图片引用方法一"></li><li><p>符号</p><ul><li>1</li><li>2</li><li>3</li></ul></li><li><p>其他</p><ol><li>3232</li><li>3r3de</li></ol></li></ul><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs java"><span class="hljs-keyword">public</span> <span class="hljs-keyword">class</span> <span class="hljs-title class_">Test</span>&#123;<br>    <span class="hljs-keyword">public</span> <span class="hljs-keyword">static</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">main</span><span class="hljs-params">(String[] args)</span>&#123;<br>    System.out.println(<span class="hljs-string">&quot;你好&quot;</span>);<br>&#125;<br>&#125;<br></code></pre></td></tr></table></figure>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>兴奋</tag>
+      
+      <tag>快乐</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>test</title>
     <link href="/2023/08/03/test-1/"/>
     <url>/2023/08/03/test-1/</url>
